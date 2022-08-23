@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Tugas Web Temu 11 </title>
+  <title> Tugas Booking Warnet </title>
 </head>
 <body>
 <table border="1">
