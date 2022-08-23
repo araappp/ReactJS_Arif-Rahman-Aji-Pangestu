@@ -12,12 +12,13 @@ $NokiWarnet = array(
 		array("Ryan", "Cabang Kebayoran", "1 PC", "5 jam"),
 		array("Abim", "Cabang Tebet", "2 PC", "3 jam"),
 		array("Rehan", "Cabang Kemanggisan", "2 PC", "1 jam"),
-		array("Ojan", "Cabang Kebayoran", "1 PC", "5 jam")
+		array("Ojan", "Cabang Kebayoran", "1 PC", "5 jam"),
+		array("Yanu", "Cabang Kebayoran", "1 PC", "2 jam")
 		);
 			
-	for ($row = 0; $row < 5; $row++) {
+	for ($row = 0; $row < 6; $row++) {
 		echo "<tr>";
-		for ($col = 0; $col < 4; $col++) {
+		for ($col = 0; $col < 5; $col++) {
 			echo "<td>".$NokiWarnet[$row][$col]."</td>";
 		}
 	echo "</tr>";
