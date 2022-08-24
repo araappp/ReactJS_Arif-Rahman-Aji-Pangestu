@@ -1,12 +1,11 @@
 # ReactJS_Arif-Rahman-Aji-Pangestu
-- repo untuk project baru alta section 3
+
+repo untuk project baru alta section 3
 
 3 point yang dipelajari tentang materi version control and branch management (git)
 
-- membuat repository
+- membuat repository sebagai file direktori untuk menyimpan file proyek.
 
-- membuat 4 branch
+- membuat branch baru agar branch master / main tidak mengalami perubahan saat masih dalam kondisi mengerjakan.
 
-- melakukan push and pull
-
-
+- melakukan push yaitu memasukkan file file yang sudah kita kerjakan yang telah di commit ke tempat penyimpanan yaitu github. 
