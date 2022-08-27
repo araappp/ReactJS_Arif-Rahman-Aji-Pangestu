@@ -1,3 +1,3 @@
 # ReactJS_Arif-Rahman-Aji-Pangestu
 
-soon
+tugas praktikum figma
