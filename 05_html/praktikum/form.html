@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Form My MyBook</title>
+      </head>
+      <body>
+        <h1> Buat Account Baru! </h1>
+        <h2> Sign Up Form </h1>
+
+            <form>
+                <fieldset>
+                <legend>Personal Information</legend>
+                <p>
+                    <label>Username:</label>
+                    <input type="text" name="username" placeholder="username..." />
+                </p>
+                <p>
+                    <label>Password:</label>
+                    <input type="password" name="password" placeholder="password..." />
+                </p>
+                
+                </fieldset>
+                <br>
+
+                <fieldset>
+                    <legend>Gender</legend>
+                    <p>
+                        <input type="radio" name="jenis_kelamin" value="Laki-laki"> Male<br>
+                        <input type="radio" name="jenis_kelamin" value="Perempuan"> Female<br>
+                        <input type="radio" name="jenis_kelamin" value="Lainnya"> Other<br>
+                    </p>
+                    
+                </fieldset>
+                <br>
+
+                <fieldset>
+                    <legend>Nasionality</legend>
+                    <p>
+                     Nasionality
+                     <select name='nasional'>
+                        <option value='indonesian'>indonesian</option>
+                        <option value='american'>american</option>
+                        <option value='english'>english</option>
+                        <option value='malaysian'>malaysian</option>
+                        <option value='thailand'>thailand</option>
+                      </select>
+                    </p>
+                    
+                </fieldset>
+                <br>
+
+                <fieldset>
+                    <legend>Language</legend>
+                    <p> Language Spoken
+                        <br>
+                        <input type="checkbox" id="c1" name="cc" />
+                        <label for="c1"><span></span> Bahasa Indonesia </label>
+                        <br>
+                        <input type="checkbox" id="c2" name="cc" />
+                        <label for="c2"><span></span> English </label>
+                        <br>
+                        <input type="checkbox" id="c3" name="cc" />
+                        <label for="c3"><span></span> Other </label>
+                    </p>
+                    
+                </fieldset>
+                <br>
+
+                <fieldset>
+                    <legend>Bio</legend>
+                    <p>
+                        <table>
+                            <tr>
+                                Bio:
+                                <td>
+                                    <textarea name=""></textarea></td>
+                                </tr>
+                    </table>
+                    </p>
+                    
+                </fieldset>
+                <br>
+
+                
+            </form>
+            <form action="welcome.html">
+                <input type="submit" value="Submit" class="btn mr-2" />
+               </form>
+      </body>
+</html>
