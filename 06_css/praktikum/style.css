@@ -1,0 +1,40 @@
+.body {
+    display : flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.red {
+    color: #fff;
+    height: 100px;
+    width: 100px;
+    background: #f00;
+    padding: 20px 20px;
+    font-size: 20px;
+    font-family: sablo 27px;
+    text-align: center;
+    margin-right: 60px;
+}
+
+.blue {
+    color: #fff;
+    height: 100px;
+    width: 100px;
+    background: #0000FF;
+    padding: 20px 20px;
+    font-size: 20px;
+    font-family: sablo 27px;
+    text-align: center;
+}
+
+.green {
+    color: #fff;
+    height: 300px;
+    width: 300px;
+    background: #006400;
+    padding: 20px 20px;
+    font-size: 20px;
+    font-family: sablo 27px;
+    text-align: center;
+    border-radius: 20px;
+}
