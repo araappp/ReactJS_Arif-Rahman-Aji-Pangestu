@@ -1,0 +1,35 @@
+.satu {
+    border-style: solid;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.dua{
+    border-style: solid;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.tiga{
+    border-style: solid;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+.empat{
+    border-style: solid;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
+.container {
+
+    padding: 10px;
+    margin-left: 10px;
+}
