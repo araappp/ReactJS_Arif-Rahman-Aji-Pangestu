@@ -1,0 +1,104 @@
+.navbar-nav a {
+font-size: 18px;
+}
+
+.card{
+    transition: all 0.5s ease;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.5);
+}
+
+.product img {
+    transition: all 0.5s ease;
+}
+
+.product img:hover{
+    transform: scale(1.1);
+}
+
+.footer {
+    background-color: #f7f7f7 !important;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 31px 0px;
+    gap: 32px;
+    position: relative;
+  }
+  
+  .footer-brand {
+    text-decoration: none;
+    color: #234f9d;
+  }
+  
+  .help {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .number {
+   text-align: center; 
+  }
+  
+  .img-footer {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #404040;
+  }
+  
+  .spanfooter {
+    color: #234f9d;
+  }
+  
+  .text7 {
+    justify-content: center;
+    width: 304px;
+    height: 54px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+  }
+  
+  .text8 {
+    width: 304px;
+    height: 54px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+  }
+  
+  .social-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 48px;
+  }
+  
+  .line {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    border: 1px solid #cdcdcd;
+  }
+  
+  .copy-footer {
+    width: 894px;
+    height: 44px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #999999;
+  }
